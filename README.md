@@ -15,8 +15,8 @@
 
 ## 📫 Contáctame
 Si quieres colaborar o simplemente charlar sobre tecnología, puedes encontrarme en:
-- 🌐 [Tu sitio web o portafolio](https://kddpaiporta.netlify.app)
-- 📧 [Tu correo electrónico](mailto:alvaropardoperalta@gmail.com)
+- 🌐 [Portfolio](https://kddpaiporta.netlify.app)
+- 📧 [Gmail](mailto:alvaropardoperalta@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/alvaro-pardo-peralta-15b6a3273/)
 
 ¡Gracias por visitar mi perfil! 😊
