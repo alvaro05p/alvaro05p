@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Bienvenido a mi GitHub
 
 ## 🚀 Sobre mí
-¡Hola! Soy un apasionado desarrollador con experiencia en Java, JavaScript, PHP o otros. Desando trabajar en todo tipo de proyectos de desarrllo.
+¡Hola! Soy un apasionado desarrollador con experiencia en Java, JavaScript, PHP o otros. Desando trabajar en todo tipo de proyectos de desarrollo.
 
 ## 🛠 Tecnologías y herramientas
 - 💻 Lenguajes: JavaScript, Java, PHP
