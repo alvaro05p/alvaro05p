@@ -1,11 +1,11 @@
 # 👋 ¡Hola! Bienvenido a mi GitHub
 
 ## 🚀 Sobre mí
-¡Hola! Soy un apasionado desarrollador con experiencia en Java, JavaScript, PHP o otros. Desando trabajar en todo tipo de proyectos de desarroyo.
+¡Hola! Soy un apasionado desarrollador con experiencia en Java, JavaScript, PHP o otros. Desando trabajar en todo tipo de proyectos de desarrllo.
 
 ## 🛠 Tecnologías y herramientas
 - 💻 Lenguajes: JavaScript, Java, PHP
-- 🛠 Frameworks y librerías: VueJS, Larabel
+- 🛠 Frameworks y librerías: VueJS, Laravel
 - 🗄 Bases de datos: MySQL, JDBC
 - 🔧 Otras herramientas: Git, Docker, VS Code
 
